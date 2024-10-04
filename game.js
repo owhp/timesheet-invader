@@ -273,6 +273,7 @@ function showTimesheetMessage() {
 	ctx.fillText("They are forcing you to fill in your timesheet",  myCanvasWidth / 2, myCanvasHeight / 2 + 60);
 	ctx.fillText("You have no choice, but to comply to their demand",  myCanvasWidth / 2, myCanvasHeight / 2 + 100);
 	ctx.fillText("👾👾👾",  myCanvasWidth / 2, myCanvasHeight / 2 + 140);
+	ctx.fillText("Next: Cédric Serwy",  myCanvasWidth / 2, myCanvasHeight / 2 + 180);
 }
 
 /*
