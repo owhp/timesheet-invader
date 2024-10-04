@@ -269,7 +269,7 @@ function showTimesheetMessage() {
     ctx.fillStyle = "white";
     ctx.textAlign = "center";
     ctx.fillText("It was an uphill battle from the start", myCanvasWidth / 2, myCanvasHeight / 2 - 20);
-    ctx.fillText("The Intergalactic Timesheet Guards have managed to capture you ", myCanvasWidth / 2, myCanvasHeight / 2 + 20);
+    ctx.fillText("The Intergalactic Timesheet Guardians have managed to capture you ", myCanvasWidth / 2, myCanvasHeight / 2 + 20);
 	ctx.fillText("They are forcing you to fill in your timesheet",  myCanvasWidth / 2, myCanvasHeight / 2 + 60);
 	ctx.fillText("You have no choice, but to comply to their demand",  myCanvasWidth / 2, myCanvasHeight / 2 + 100);
 	ctx.fillText("👾👾👾",  myCanvasWidth / 2, myCanvasHeight / 2 + 140);
